@@ -1,0 +1,33 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: 00_Introduccion
+
+  
+
+chapters:
+
+- file: 01_GrafosComputadoras_00
+  sections:
+    - file: 01_GrafosComputadoras_00
+    - file: 01_GrafosComputadoras_00
+
+- file: 02_AlgoritmosDeGrafosEnPython_00
+  sections:
+    - file: 02_AlgoritmosDeGrafosEnPython_00
+    - file: 02_AlgoritmosDeGrafosEnPython_00
+
+- file: 03_AnalisisDeDatosConOsmnx_00
+  sections:
+    - file: 03_AnalisisDeDatosConOsmnx_00
+    - file: 03_AnalisisDeDatosConOsmnx_00
+
+- file: 04_GrafosComplejos_00
+  sections:
+    - file: 04_GrafosComplejos_00
+    - file: 04_GrafosComplejos_00
+    - file: 04_TransformacionesLineales_03
+
+
+- file: 06_referencias

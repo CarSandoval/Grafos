@@ -1,0 +1,7 @@
+# Ignora la carpeta localWeb
+localWeb/
+docs/
+.ipynb_checkpoints/
+
+#No subir checkpoints
+.ipynb_checkpoints/
