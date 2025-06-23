@@ -10,25 +10,23 @@ chapters:
 
 - file: 01_GrafosComputadoras_00
   sections:
-    - file: 01_GrafosComputadoras_00
     - file: 01_GrafosComputadoras_01
     - file: 01_GrafosComputadoras_02
     - file: 01_GrafosComputadoras_03
 
 - file: 02_AlgoritmosDeGrafosEnPython_00
   sections:
-    - file: 02_AlgoritmosDeGrafosEnPython_00
-    - file: 02_AlgoritmosDeGrafosEnPython_00
+    - file: 02_AlgoritmosDeGrafosEnPython_01
+    - file: 02_AlgoritmosDeGrafosEnPython_02
 
 - file: 03_AnalisisDeDatosConOsmnx_00
   sections:
-    - file: 03_AnalisisDeDatosConOsmnx_00
-    - file: 03_AnalisisDeDatosConOsmnx_00
+    - file: 03_AnalisisDeDatosConOsmnx_01
+    - file: 03_AnalisisDeDatosConOsmnx_02
 
 - file: 04_GrafosComplejos_00
   sections:
-    - file: 04_GrafosComplejos_00
-    - file: 04_GrafosComplejos_00
-
+    - file: 04_GrafosComplejos_01
+    - file: 04_GrafosComplejos_02
 
 - file: 06_referencias

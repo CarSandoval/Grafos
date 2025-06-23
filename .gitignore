@@ -2,6 +2,7 @@
 localWeb/
 docs/
 .ipynb_checkpoints/
+_build/
 
 #No subir checkpoints
 .ipynb_checkpoints/
