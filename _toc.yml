@@ -13,6 +13,11 @@ chapters:
     - file: 01_GrafosComputadoras_01
     - file: 01_GrafosComputadoras_02
     - file: 01_GrafosComputadoras_03
+    - file: 01_GrafosComputadoras_04
+    - file: 01_GrafosComputadoras_05
+    - file: 01_GrafosComputadoras_06
+    - file: 01_GrafosComputadoras_07
+    - file: 01_GrafosComputadoras_08
 
 - file: 02_AlgoritmosDeGrafosEnPython_00
   sections:
