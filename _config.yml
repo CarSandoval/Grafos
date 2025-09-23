@@ -8,7 +8,10 @@ logo: Imagenes/escudo.png
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
-  execute_notebooks: force
+  execute_notebooks: "auto"   # o "force" si quieres re-ejecutar siempre
+  timeout: 120
+  allow_errors: false
+  kernel_name: python3
 
 # Define the name of the latex output file for PDF builds
 latex:
